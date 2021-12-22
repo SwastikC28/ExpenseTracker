@@ -8,7 +8,7 @@ This is a simple expense tracker front end application made using React.js
 npm install
 ```
 
-### Run App
+## Run App
 ```
 npm start
 ```
