@@ -3,12 +3,12 @@
 ## About
 This is a simple expense tracker front end application made using React.js  
 
-## Install Node Mudules
+### Install Node Mudules
 ```
 npm install
 ```
 
-## Run App
+### Run App
 ```
 npm start
 ```
